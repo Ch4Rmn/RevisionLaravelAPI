@@ -1,0 +1,7 @@
+php artisan
+
+php artisan route:make_list
+
+php aritsan make:controller --help
+
+php artisan migrate:refresh --seed
